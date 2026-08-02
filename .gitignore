@@ -1,0 +1,15 @@
+# Python / Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database & Environment Files
+db.sqlite3
+*.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
